@@ -54,6 +54,10 @@ body {
      letter-spacing: .05em;
 }
 
+header {
+  margin: 0 3%;
+}
+
 h1, h2 {
   font-weight:normal;
   letter-spacing:.1em;
@@ -75,6 +79,7 @@ h1, h2 {
   float: left;
 }
 
+
 img {
   width: 100px;
   height:100px;
@@ -84,6 +89,31 @@ img {
   display:inline;
   margin:3%;
 }
+
+.promo {
+  width:40%;
+  height:40%;
+  border-radius:0%;
+  border:none;
+  float:left;
+
+}
+
+#flyer {
+  /*width:45%;
+  height:45%;*/
+
+
+}
+
+#caption {
+  display:inline-block;
+  width:45%;
+  margin-top:-2%;
+  margin-left: 2%;
+}
+
+
 
 a {
   color: blue;
@@ -100,6 +130,11 @@ a:hover, a:focus {
     .artist {
       width: 100%;
       margin: 5% 0%;
+    }
+
+    #caption {
+      width:100%;
+      margin: 3%;
     }
 }
 
