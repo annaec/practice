@@ -162,11 +162,47 @@ a:hover, a:focus {
 
   }
 
-@media  (min-width: 1215px) {
+@media  (min-width: 1200px) {
   #opening {
     margin-top:-7%;
   }
 
   }
+
+  @media  (min-width: 1330px) {
+  #opening {
+    margin-top:-5%;
+  }
+
+  }
+
+    @media  (min-width: 1470px) {
+  #opening {
+    margin-top:-3%;
+  }
+
+  }
+
+     @media  (min-width: 1500px) {
+  #opening {
+    margin-top:-2%;
+  }
+
+  }
+
+       @media  (min-width: 1900px) {
+  #opening {
+    margin-top:0%;
+  }
+
+  }
+         @media  (min-width: 2000px) {
+  #opening {
+    margin-top:2%;
+  }
+
+  }
+
+
 
 
